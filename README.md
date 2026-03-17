@@ -1,34 +1,67 @@
-##Hi, I'm Adarsh Patil 👋  
+<h1 align="center">Hi 👋, I'm Adarsh Patil</h1>
+<h3 align="center">🚀 AI & ML Enthusiast | Computer Science Engineer</h3>
 
-🎓 I’m a Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning.  
-💡 Passionate about building intelligent systems, exploring new technologies, and solving real-world problems through code.  
+---
 
-🚀 Skills:
-- Programming: Python,c,Html, C++ (learning)
-- Core Areas: Data Structures & Algorithms, AI/ML Basics
-- Tools & Tech: Git, GitHub, VS Code  ,figma ,Caeg
+## 🎓 About Me
+- 🎓 Computer Science Engineering student (AI & ML specialization)  
+- 💡 Passionate about building intelligent systems and solving real-world problems  
+- 🔍 Exploring new technologies and continuously improving my skills  
+- 🌱 Currently learning **C++** and diving deeper into **Machine Learning**
 
-📚 Currently Focused On:
-- Strengthening DSA and problem-solving skills  
-- Learning Machine Learning & AI concepts  
-- Building real-world projects in Python  
+---
 
-🎯 Goal:
-To contribute to open source and build impactful tech solutions 
+## 🚀 Skills & Technologies
 
-📫 Let's connect:
-- LinkedIn: https://www.linkedin.com/in/adarsh-patil-409465383/
-<!--
-**adarshpatil1209/adarshpatil1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Programming Languages
+- Python 
+- C  
+- C++ (Learning)  
+- HTML  
 
-Here are some ideas to get you started:
+### 🧠 Core Concepts
+- Data Structures & Algorithms  
+- Artificial Intelligence & Machine Learning (Basics)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Technologies
+- Git & GitHub  
+- VS Code  
+- Figma  
+- Canva
+- caeg
+
+---
+
+## 📚 Currently Working On
+- 🔹 Strengthening **DSA & Problem Solving**
+- 🔹 Learning **Machine Learning & AI Concepts**
+- 🔹 Building **Real-World Python Projects**
+
+---
+
+## 🎯 Goals
+- 🌍 Contribute to **Open Source Projects**
+- 🚀 Build impactful **AI-powered applications**
+- 💡 Solve real-world problems using technology  
+
+---
+
+## 📫 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/adarsh-patil-409465383/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="streak" />
+</p>
+
+---
+
+## 🔥 Quote I Live By
+> "Code. Learn. Build. Repeat." 💻
