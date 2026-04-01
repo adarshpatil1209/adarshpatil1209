@@ -44,11 +44,6 @@
 
 ---
 
-## 🏆 𝙂𝙞𝙩𝙃𝙪𝙗 𝘼𝙘𝙝𝙞𝙚𝙫𝙚𝙢𝙚𝙣𝙩𝙨  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adarshpatil1209&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
 
 ---
 
@@ -73,14 +68,11 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-## 💭 
+## 💭  
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <b>eat . code . sleep . repeat .</b>
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0e75b6&height=120&section=footer"/>
