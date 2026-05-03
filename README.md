@@ -29,7 +29,7 @@ I'm an AI/ML Engineering Student based in Kolhapur, Maharashtra, with a passion 
 *   🎓 **Education:** B.Tech CSE (AI/ML) at KIT's College of Engineering Kolhapur (Autonomous) [2025 → 2029] | Sainik School, Bijapur | Army Public School, Samba
 *   🏗️ **Currently Building:** NestMate Web — a full-stack student housing platform.
 *   🌱 **Currently Learning:** Machine Learning & Generative AI from scratch, DSA, and Software Engineering fundamentals.
-*   🤝 **Open Source:** Contributing to documentation at Sugar Labs.
+*   🤝 **Open Source:** Contributing to  at Sugar Labs and open source .
 *   🎯 **Interests:** AI Products, Entrepreneurship, UI/UX, Vibe Coding.
 *   🟢 **Status:** Open to internships & collaborations!
 
