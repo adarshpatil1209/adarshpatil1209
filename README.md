@@ -18,12 +18,6 @@
 
 <br/><br/>
 
-<!-- Profile views + followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=adarshpatil1209&style=flat-square&color=58a6ff&label=PROFILE+VIEWS)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/adarshpatil1209?style=flat-square&color=58a6ff&labelColor=161b22&label=FOLLOWERS)
-
-</div>
 
 ---
 
