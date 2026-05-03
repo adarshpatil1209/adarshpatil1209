@@ -1,80 +1,160 @@
-<!-- ANIMATED HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Adarsh+Patil;AI+%26+ML+Student;Building+Real+World+Projects;Always+Learning+🚀" />
-</p>
+<!-- Header -->
+<div align="center">
 
-<!-- WAVING BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0e75b6&height=120&section=header"/>
-</p>
+```
+ █████╗ ██████╗  █████╗ ██████╗ ███████╗██╗  ██╗
+██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██║  ██║
+███████║██║  ██║███████║██████╔╝███████╗███████║
+██╔══██║██║  ██║██╔══██║██╔══██╗╚════██║██╔══██║
+██║  ██║██████╔╝██║  ██║██║  ██║███████║██║  ██║
+╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+         P A T I L
+```
 
----
+### `AI/ML Engineer in Progress · Builder · Problem Solver`
 
-## 🧠 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-patil-409465383/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adarshpatil1209/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adarshpatil862@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
 
-<img align="right" height="170" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
-
-- 🎓 AI & ML Student  
-- 💻 Exploring **Artificial Intelligence, Machine Learning & Development**  
-- ⚡ Learning **C++, Python, DSA & Backend Development**  
-- 🔥 Focused on **building real-world impactful projects**  
-- 🚀 Consistency + Growth mindset  
-
----
-
-## ⚡ 𝙏𝙚𝙘𝙝 𝘼𝙧𝙨𝙚𝙣𝙖𝙡  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,git,github,vscode,linux" />
-</p>
+</div>
 
 ---
 
+## `whoami`
 
-## 📊 𝙂𝙞𝙩𝙃𝙪𝙗 𝘼𝙣𝙖𝙡𝙮𝙩𝙞𝙘𝙨  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshpatil1209&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshpatil1209&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshpatil1209&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-
----
-
-## 🐍 𝘾𝙤𝙣𝙩𝙧𝙞𝙗𝙪𝙩𝙞𝙤𝙣 𝙎𝙣𝙖𝙠𝙚  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+```python
+adarsh = {
+    "name"       : "Adarsh Patil",
+    "degree"     : "B.Tech CSE — AI/ML Specialization",
+    "college"    : "KIT's College of Engineering Kolhapur (Autonomous)",
+    "batch"      : "2025 → 2029",
+    "location"   : "Kolhapur, Maharashtra, IN  |  20.0067°N  73.8567°E",
+    "focus"      : ["Machine Learning", "Generative AI", "Full-Stack Dev"],
+    "vision"     : "Building AI-driven products that solve real-world problems",
+    "status"     : "🟢 Open to internships & collaborations"
+}
+```
 
 ---
 
-## 🌐 𝘾𝙤𝙣𝙣𝙚𝙘𝙩  
+## `// WHAT I BUILD`
 
-<p align="center">
-  <a href="https://adarshpatil.tech/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=black"/>
-  </a>
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+> **NestMate Web** — *Active Build*
+> Student accommodation finder. Helps students discover PG stays near their college.
+> Full-stack solo project — frontend · backend · database · deployment · design · all me.
+> `Python` `HTML/CSS/JS` `Git` `Figma` `Vibe Coding`
 
-## 💭  
+> **Portfolio Website** — *Live*
+> Personal portfolio designed & coded from scratch.
+> `HTML` `CSS` `JS` `Brutalist Design`
 
-<p align="center">
-  <b>eat . code . sleep . repeat .</b>
-</p>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0e75b6&height=120&section=footer"/>
-</p>
+## `// SKILLS`
+
+<div align="center">
+
+**Languages & Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**AI / GenAI**
+
+![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white)
+![Prompt Eng](https://img.shields.io/badge/Prompt%20Engineering-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat-square&logo=github&logoColor=white)
+
+**Design & Prototyping**
+
+![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-0ACF83?style=flat-square&logo=figma&logoColor=white)
+![Rapid Proto](https://img.shields.io/badge/Rapid%20Prototyping-FF4088?style=flat-square&logo=framer&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=flat-square&logo=autodesk&logoColor=white)
+
+</div>
+
+---
+
+## `// GITHUB STATS`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=adarshpatil1209&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshpatil1209&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=adarshpatil1209&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## `// ACHIEVEMENTS`
+
+```
+[★] Tech Negotia          →  FINALIST  |  Pitching + Real-World Problem Solving Competition
+[★] Stranger Code         →  ROUND 2   |  C Programming Contest + Aptitude
+[★] FedEx SMART Hackathon →  PARTICIPANT  |  Shaastra 2026, IIT Madras
+[★] Sugar Labs            →  CONTRIBUTOR  |  Open Source Documentation
+```
+
+---
+
+## `// BACKGROUND`
+
+```
+2025 → now   KIT's College of Engineering Kolhapur  |  B.Tech CSE (AI/ML)
+   ↑
+   Sainik School, Bijapur                           |  Grade: A1  ·  Basketball
+   ↑
+   Army Public School, Samba, Jammu                 |  Elocution
+```
+
+---
+
+## `// CURRENTLY LEARNING`
+
+<div align="center">
+
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-orange?style=flat-square)
+![ML](https://img.shields.io/badge/Machine%20Learning%20Fundamentals-blue?style=flat-square)
+![GenAI](https://img.shields.io/badge/Generative%20AI%20%26%20LLMs-purple?style=flat-square)
+![WebDev](https://img.shields.io/badge/Full--Stack%20Web%20Dev-green?style=flat-square)
+
+</div>
+
+---
+
+## `// CONNECT`
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [adarsh-patil-409465383](https://www.linkedin.com/in/adarsh-patil-409465383/) |
+| 🐙 GitHub | [adarshpatil1209](https://github.com/adarshpatil1209/) |
+| 📧 Email | [adarshpatil862@gmail.com](mailto:adarshpatil862@gmail.com) |
+
+</div>
+
+---
+
+<div align="center">
+
+```
+"Build first. Learn along the way. Ship."
+```
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adarshpatil1209.adarshpatil1209&style=flat-square&color=58a6ff)
+
+</div>
+
