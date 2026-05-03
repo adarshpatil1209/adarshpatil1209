@@ -1,160 +1,94 @@
-<!-- Header -->
 <div align="center">
 
-```
- █████╗ ██████╗  █████╗ ██████╗ ███████╗██╗  ██╗
-██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██║  ██║
-███████║██║  ██║███████║██████╔╝███████╗███████║
-██╔══██║██║  ██║██╔══██║██╔══██╗╚════██║██╔══██║
-██║  ██║██████╔╝██║  ██║██║  ██║███████║██║  ██║
-╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-         P A T I L
-```
+<!-- Animated typing header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Display&size=36&duration=3000&pause=1000&color=1a1a1a&center=true&vCenter=true&width=600&height=80&lines=Adarsh+Patil)](https://git.io/typing-svg)
 
-### `AI/ML Engineer in Progress · Builder · Problem Solver`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Mono&size=14&duration=2000&pause=2000&color=777777&center=true&vCenter=true&multiline=true&width=600&height=40&lines=B.Tech+CSE+%C2%B7+AI%2FML+%C2%B7+KIT+CoEK+%C2%B7+2025%E2%80%932029)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-patil-409465383/)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a66c2)](https://www.linkedin.com/in/adarsh-patil-409465383/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adarshpatil1209/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adarshpatil862@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adarshpatil862@gmail.com)
 
 </div>
 
----
-
-## `whoami`
-
-```python
-adarsh = {
-    "name"       : "Adarsh Patil",
-    "degree"     : "B.Tech CSE — AI/ML Specialization",
-    "college"    : "KIT's College of Engineering Kolhapur (Autonomous)",
-    "batch"      : "2025 → 2029",
-    "location"   : "Kolhapur, Maharashtra, IN  |  20.0067°N  73.8567°E",
-    "focus"      : ["Machine Learning", "Generative AI", "Full-Stack Dev"],
-    "vision"     : "Building AI-driven products that solve real-world problems",
-    "status"     : "🟢 Open to internships & collaborations"
-}
-```
+<br/>
 
 ---
 
-## `// WHAT I BUILD`
+First-year Computer Science student specializing in AI/ML. I build things — currently focused on full-stack web development, machine learning fundamentals, and generative AI. Long-term goal: ship AI products that actually matter.
 
-> **NestMate Web** — *Active Build*
-> Student accommodation finder. Helps students discover PG stays near their college.
-> Full-stack solo project — frontend · backend · database · deployment · design · all me.
-> `Python` `HTML/CSS/JS` `Git` `Figma` `Vibe Coding`
-
-> **Portfolio Website** — *Live*
-> Personal portfolio designed & coded from scratch.
-> `HTML` `CSS` `JS` `Brutalist Design`
+Previously at Sainik School Bijapur and Army Public School, Samba.
 
 ---
 
-## `// SKILLS`
+### Projects
+
+**NestMate Web** &nbsp;`in progress`
+Student accommodation finder — helps students discover PGs near their college.
+Solo full-stack build: frontend · backend · database · deployment · design — all me.
+
+**Portfolio Website** &nbsp;`live`
+Designed and coded from scratch. Brutalist-tech aesthetic.
+
+---
+
+### Skills
 
 <div align="center">
 
-**Languages & Tools**
-
+<!-- Languages -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+<!-- Tools -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-181717?style=flat-square&logo=githubcopilot&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-**AI / GenAI**
-
-![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![GenAI](https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white)
-![Prompt Eng](https://img.shields.io/badge/Prompt%20Engineering-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat-square&logo=github&logoColor=white)
-
-**Design & Prototyping**
-
-![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-0ACF83?style=flat-square&logo=figma&logoColor=white)
-![Rapid Proto](https://img.shields.io/badge/Rapid%20Prototyping-FF4088?style=flat-square&logo=framer&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=flat-square&logo=autodesk&logoColor=white)
 
-</div>
-
----
-
-## `// GITHUB STATS`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=adarshpatil1209&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshpatil1209&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=adarshpatil1209&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff)](https://git.io/streak-stats)
+<!-- AI -->
+![OpenAI](https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
 
 </div>
 
 ---
 
-## `// ACHIEVEMENTS`
+### Highlights
 
-```
-[★] Tech Negotia          →  FINALIST  |  Pitching + Real-World Problem Solving Competition
-[★] Stranger Code         →  ROUND 2   |  C Programming Contest + Aptitude
-[★] FedEx SMART Hackathon →  PARTICIPANT  |  Shaastra 2026, IIT Madras
-[★] Sugar Labs            →  CONTRIBUTOR  |  Open Source Documentation
-```
-
----
-
-## `// BACKGROUND`
-
-```
-2025 → now   KIT's College of Engineering Kolhapur  |  B.Tech CSE (AI/ML)
-   ↑
-   Sainik School, Bijapur                           |  Grade: A1  ·  Basketball
-   ↑
-   Army Public School, Samba, Jammu                 |  Elocution
-```
+|  | |
+|--|--|
+| 🏆 | **Tech Negotia** — Finalist · Pitching + problem solving competition |
+| 🥈 | **Stranger Code** — Round 2 · C programming + aptitude contest |
+| 🚀 | **FedEx SMART Hackathon** — Participant · Shaastra 2026, IIT Madras |
+| 🌱 | **Sugar Labs** — Open source contributor · Documentation |
 
 ---
 
-## `// CURRENTLY LEARNING`
+### GitHub Stats
 
 <div align="center">
 
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-orange?style=flat-square)
-![ML](https://img.shields.io/badge/Machine%20Learning%20Fundamentals-blue?style=flat-square)
-![GenAI](https://img.shields.io/badge/Generative%20AI%20%26%20LLMs-purple?style=flat-square)
-![WebDev](https://img.shields.io/badge/Full--Stack%20Web%20Dev-green?style=flat-square)
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=adarshpatil1209&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=1a1a1a&icon_color=1a1a1a&text_color=666666&bg_color=fafafa&custom_title=Stats" />
+&nbsp;
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshpatil1209&layout=compact&hide_border=true&title_color=1a1a1a&text_color=666666&bg_color=fafafa" />
 
 </div>
 
----
-
-## `// CONNECT`
-
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [adarsh-patil-409465383](https://www.linkedin.com/in/adarsh-patil-409465383/) |
-| 🐙 GitHub | [adarshpatil1209](https://github.com/adarshpatil1209/) |
-| 📧 Email | [adarshpatil862@gmail.com](mailto:adarshpatil862@gmail.com) |
+[![GitHub Streak](https://streak-stats.demolab.com?user=adarshpatil1209&theme=default&hide_border=true&background=fafafa&ring=1a1a1a&fire=1a1a1a&currStreakLabel=1a1a1a&sideLabels=666666&dates=999999&stroke=eeeeee)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
 <div align="center">
-
-```
-"Build first. Learn along the way. Ship."
-```
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=adarshpatil1209.adarshpatil1209&style=flat-square&color=58a6ff)
-
+<sub>Kolhapur, Maharashtra &nbsp;·&nbsp; Open to internships & collaborations &nbsp;·&nbsp; 20.0067°N 73.8567°E</sub>
 </div>
-
